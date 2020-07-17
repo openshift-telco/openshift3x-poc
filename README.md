@@ -1,3 +1,8 @@
+```
+#############################################
+THIS REPO IS ARCHIVED. NO LONGER MAINTAINED.
+#############################################
+```
 # ABOUT THIS REPO
 This repository is a **prescriptive** OpenShift _inventory_ file I for my lab environment and some notes on the installation process. The inventory file is verbose to allow for quick adjustment during tests. 
 
